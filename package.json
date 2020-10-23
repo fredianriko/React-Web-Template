@@ -1,5 +1,5 @@
 {
-  "name": "open-react-template",
+  "name": "React-Web-Template",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,8 +38,4 @@
     ]
   },
   "devDependencies": {}
-  
 }
-"publishConfig": { 
-  "registry": "https://npm.pkg.github.com/"
- }
